@@ -2,3 +2,8 @@ C:\C++\calculadora_calc\calculadora_calc\x64\Debug\calculadora_calc.vcxproj.Asse
 C:\C++\calculadora_calc\calculadora_calc\x64\Debug\calculadora_calc.vcxproj.SuggestedBindingRedirects.cache
 C:\C++\calculadora_calc\calculadora_calc\x64\Debug\calculadoracalc.inicio.resources
 C:\C++\calculadora_calc\calculadora_calc\x64\Debug\calculadora_calc.vcxproj.GenerateResource.cache
+C:\C++\ProyectoCalculo\calculadora_calc\calculadora_calc\x64\Debug\calculadora_calc.vcxproj.AssemblyReference.cache
+C:\C++\ProyectoCalculo\calculadora_calc\calculadora_calc\x64\Debug\calculadora_calc.vcxproj.SuggestedBindingRedirects.cache
+C:\C++\ProyectoCalculo\calculadora_calc\calculadora_calc\x64\Debug\calculadoracalc.inicio.resources
+C:\C++\ProyectoCalculo\calculadora_calc\calculadora_calc\x64\Debug\calculadora_calc.vcxproj.GenerateResource.cache
+C:\C++\ProyectoCalculo\calculadora_calc\calculadora_calc\x64\Debug\calculadoracalc.calculadora.resources

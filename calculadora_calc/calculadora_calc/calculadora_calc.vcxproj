@@ -121,14 +121,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="calculadora.cpp" />
     <ClCompile Include="inicio.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="calculadora.h">
+      <FileType>CppForm</FileType>
+    </ClInclude>
     <ClInclude Include="inicio.h">
       <FileType>CppForm</FileType>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="calculadora.resx">
+      <DependentUpon>calculadora.h</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="inicio.resx">
       <DependentUpon>inicio.h</DependentUpon>
     </EmbeddedResource>

@@ -1,5 +1,5 @@
-﻿  inicio.cpp
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+﻿  calculadora.cpp
+  inicio.cpp
   Generando código...
-  inicio.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
-  calculadora_calc.vcxproj -> C:\C++\calculadora_calc\x64\Debug\calculadora_calc.exe
+  calculadora.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  calculadora_calc.vcxproj -> C:\C++\ProyectoCalculo\calculadora_calc\x64\Debug\calculadora_calc.exe
