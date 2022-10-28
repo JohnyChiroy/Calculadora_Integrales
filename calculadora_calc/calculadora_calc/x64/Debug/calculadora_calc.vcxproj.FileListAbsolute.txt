@@ -1,0 +1,4 @@
+C:\C++\calculadora_calc\calculadora_calc\x64\Debug\calculadora_calc.vcxproj.AssemblyReference.cache
+C:\C++\calculadora_calc\calculadora_calc\x64\Debug\calculadora_calc.vcxproj.SuggestedBindingRedirects.cache
+C:\C++\calculadora_calc\calculadora_calc\x64\Debug\calculadoracalc.inicio.resources
+C:\C++\calculadora_calc\calculadora_calc\x64\Debug\calculadora_calc.vcxproj.GenerateResource.cache
